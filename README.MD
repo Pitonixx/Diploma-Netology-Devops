@@ -19,7 +19,9 @@
 
 Для CI/CD использовал Gitlab, вот [ссылка на репозиторий.](https://gitlab.com/pitonixxx/diploma_nd9_app) 
 
-7. Все репозитории рекомендуется хранить на одном ресурсе (github, gitlab)
+Репозиторий с системой мониторинга находится [тут](https://github.com/Pitonixx/Diploma_ND9-monitoring)
+
+
 
 
 
